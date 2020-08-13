@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ATMFingerprint</string>
+    <string name="deposit">Deposit</string>
+    <string name="statements">Statements</string>
+    <string name="footer">Designed and Developed By Mercy Mudenda SIN:</string>
+    <string name="curr">ZMW</string>
+    <string name="txt_available">Avaliable</string>
+    <string name="txt_amount">00.00</string>
+    <string name="msg_amout">Enter Amount to Withdrawl</string>
+    <string name="refcode">Referal Code</string>
+    <string name="withdrawal">Withdrawal</string>
+    <string name="balanceAmount">Current Balance</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="depositAmt">Enter Amount</string>
+</resources>
